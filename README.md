@@ -1,6 +1,14 @@
 # RealWorldAppAngular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
+## Project Description and Documentation
+[Click here to see description and documentation](https://realworld-docs.netlify.app/docs/intro)
+
+## Project Backend API
+
+[Direct link](https://conduit-api-realworld.herokuapp.com/)
+https://conduit-api-realworld.herokuapp.com/
+## Project Demo
+[Click here to see Demo](https://demo.realworld.io/#/)
 
 ## Development server
 
